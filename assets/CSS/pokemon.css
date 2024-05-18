@@ -1,0 +1,27 @@
+body{
+    background-image: url(../img/fondo.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-rendering: auto;
+}
+
+
+*{
+    font-family: 'Pokemon Solid', sans-serif;
+                                                
+}
+
+.color-card{
+    background-color: #979494ec;
+}
+
+.btn-buscador{
+    width: 100px;
+    opacity: 100%;
+    background-color:transparent;
+    border: none;
+}
+
+.img-btn{
+    width: 50px;
+}
